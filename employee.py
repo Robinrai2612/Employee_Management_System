@@ -1,4 +1,4 @@
-# Employee Management System Using Python – copyassignment.com
+# Employee Management System Using Python and Mysql Databae
 from os import system
 import re
 # importing mysql connector
